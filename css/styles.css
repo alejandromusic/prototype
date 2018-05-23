@@ -1,0 +1,204 @@
+.container
+{
+    /* center contents */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+ 
+#middle .form-control
+{
+    /* center form controls */
+    display: inline-block;
+ 
+    /* override Bootstrap's 100% width for form controls */
+    width: auto;
+}
+ 
+#top
+{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 
+{
+	text-align: center;
+}
+
+#middle
+{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+ 
+#middle .form-control
+{
+     
+    /* center form controls */
+    display: inline-block;
+ 
+    /* override Bootstrap's 100% width for form controls */
+    width: auto;
+}
+ 
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+ 
+    /* surround with whitespace */
+    margin: 20px;
+}
+.spaceTop
+{
+	margin-top: 40px;
+}
+
+table, td, tr
+{
+   border: 1px solid black; 
+}
+table
+{
+    width: 60%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+th
+{
+    background: #224466;
+    color: white;
+}
+table textarea, table input[type=text]
+{
+	width: 450px;
+}
+.shortCol
+{
+	width: 120px;
+}
+
+#nav
+{
+    margin: 35px;
+}
+#nav a
+{
+    background: #224466;
+    color: white;
+    padding: 5px 20px;
+}
+.red
+{
+	color: #f00;
+}
+.number0, .number1, .number2, .number3, .number4, .number5
+{
+	color: #fff;
+	padding: 10pt;
+	font-size: 32pt;
+}
+.number0 a, .number0 a:hover,
+.number1 a, .number1 a:hover,
+.number2 a, .number2 a:hover, 
+.number3 a, .number3 a:hover,
+.number4 a, .number4 a:hover,
+.number5 a, .number5 a:hover
+{
+	color: #fff;
+}
+.number0
+{
+	background: rgb(169, 135, 94);
+}
+.number1
+{
+	background: rgb(234, 148, 77);
+}
+.number2
+{
+	background: rgb(163, 200, 70);
+}
+.number3
+{
+	background: rgb(111, 166, 98);
+}
+.number4
+{
+	background: rgb(115, 145, 166);
+}
+.number5
+{
+	background: rgb(101, 101, 166);
+}
+.main0, .main1, .main2, .main3, .main4, .main5
+{
+	font-size: 32pt;
+}
+.main0, .text0 b, .main0 a, .main0 a:hover
+{
+	color: rgb(169, 135, 94);
+}
+.main1, .text1 b, .main1 a, .main1 a:hover
+{
+	color: rgb(234, 148, 77);
+}
+.main2, .text2 b, .main2 a, .main2 a:hover
+{
+	color: rgb(163, 200, 70);
+}
+.main3, .text3 b, .main3 a, .main3 a:hover
+{
+	color: rgb(111, 166, 98);
+}
+.main4, .text4 b, .main4 a, .main4 a:hover
+{
+	color: rgb(115, 145, 166);
+}
+.main5, .text5 b, .main5 a, .main5 a:hover
+{
+	color: rgb(101, 101, 166);
+}
+.text1, .text2, .text3
+{
+	padding-left: 60pt;
+}
+#studentsTable input[type=text]
+{
+    width: 100px;
+}
+#small a
+{
+	font-size: 6pt;
+	color: black;
+}
+#fname, #lname, #phone{ width: 100px; }
+#major, #ostart, #ostartTo, #ocomplete, #goalt{ width:150px;}
+#email{ width: 200px; }
+
+.dspsBtn
+{
+	font-size: 24pt;
+}
+.colorInv
+{
+	background: #000;
+}
+.colorInv h1
+{
+	color:#eee;
+}
+.colorInv .btn-primary
+{
+	background: #C3874B;
+	color: #000;
+}
+.arc text {
+    font: 12pt sans-serif;
+}
+.arc path {
+}
