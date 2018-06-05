@@ -31,7 +31,7 @@
                 <td>Block: </td><td>a93948d58c70c7431fe2061afb5ad93649f277203879600d36b68fda1c72759e</td>
             <tr>
             </tr>
-                <td>Private Key: </td><td>cacaff054725aa408e5090c56c86dd57cbfe8429049b57c86d66f163331ad530</td>
+                <td>Token: </td><td>cacaff054725aa408e5090c56c86dd57cbfe8429049b57c86d66f163331ad530</td>
         </table>
 
 

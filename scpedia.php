@@ -34,7 +34,7 @@
 
 <script>
 $("#contr").click(function(){
-    location.href = "signin";
+    location.href = "signin.php";
 });
 </script>
 <?php include ("footer.php"); ?>

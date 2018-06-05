@@ -33,7 +33,7 @@ setTimeout(function(){
     $("#info").text("verification ok");
     setTimeout(function(){ 
         $("#info").text("redirecting");
-        setTimeout(function(){ location.href = "contribute"; }, 500);
+        setTimeout(function(){ location.href = "contribute.php"; }, 500);
     }, 1000);
 }, 3000);
 
